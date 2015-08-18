@@ -1,0 +1,73 @@
+From stud_info2 at yahoo.de  Sun May  1 00:46:28 2005
+From: stud_info2 at yahoo.de (Art Tevs)
+Date: Sun, 1 May 2005 00:46:28 +0200
+Subject: [Nrengine-core] Clock/Timer System
+Message-ID: <200505010046.28070.stud_info2@yahoo.de>
+
+News about nrEngine!
+
+
+nrEngine now supports a clock/timer system (tutorial was found in Game 
+Programming Gems 4).
+ nrEngine has now one internal clock which always run in the same speed. It 
+can get data from external time source. This can be either platform ticks, 
+user input, file or something else. So you can let run your animations in the 
+same speed as in videos/Zwischensequenzen. It allows also something like 
+synchronizing.
+ There are also timers, which can run at different speed. So you can use more 
+than one timer for your application. e.g. one timer with normal speed for GUI 
+and one for the game. The game's one can be paused, so the game should be 
+paused too, but the GUI is still accessible.
+ You can also create something like Matrix/MaxPayne2-Effects, where time can 
+go slower than the worlds time.
+
+This you can find on the CVS-Version. The release file will be updated if this 
+timer system is extensively tested.
+I will also tell you something about timing systems in games on Monday in the 
+Seminar.
+
+bye,
+ Art
+
+
+
+From arti_tevs at yahoo.de  Fri May 13 12:17:57 2005
+From: arti_tevs at yahoo.de (Art Tevs)
+Date: Fri, 13 May 2005 12:17:57 +0200
+Subject: [Nrengine-core] Slides for Computer Game Development
+Message-ID: <200505131217.57492.arti_tevs@yahoo.de>
+
+Hi, folks!
+
+I have some slides which can help you by developing of your games. This slides 
+are from the "Algorithmen f?r Computerspiele Seminar" given in Sommersemster 
+2003 on the University of Stuttgard. The students there did not made any game 
+but gave talks about it. So you will possibly find some usefull information 
+on that slides.
+
+The slides you can find here on my page:
+http://art.elowar.com/cgd/
+
+bye, Art
+
+
+From stud_info2 at yahoo.de  Fri May 13 12:22:14 2005
+From: stud_info2 at yahoo.de (Art Tevs)
+Date: Fri, 13 May 2005 12:22:14 +0200
+Subject: [Nrengine-core] Slides for Computer Game Development
+Message-ID: <200505131222.14957.stud_info2@yahoo.de>
+
+Hi, folks!
+
+I have some slides which can help you by developing of your games. This
+ slides are from the "Algorithmen f?r Computerspiele Seminar" given in
+ Sommersemster 2003 on the University of Stuttgard. The students there did
+ not made any game but gave talks about it. So you will possibly find some
+ usefull information on that slides.
+
+The slides you can find here on my page:
+http://art.elowar.com/cgd/
+
+bye, Art
+
+

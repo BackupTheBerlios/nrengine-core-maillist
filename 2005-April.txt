@@ -1,0 +1,16 @@
+From stud_info2 at yahoo.de  Tue Apr 26 10:44:59 2005
+From: stud_info2 at yahoo.de (Art Tevs)
+Date: Tue, 26 Apr 2005 10:44:59 +0200
+Subject: [Nrengine-core] Template Bug
+Message-ID: <200504261044.59577.stud_info2@yahoo.de>
+
+Hi, Folks!
+
+There was some problem by compiling the engine with newer g++ compiler 
+(version >= 3.4). 
+
+This bug is fixed now, so it should work now with newest g++ compiler.
+
+bye, Art
+
+
